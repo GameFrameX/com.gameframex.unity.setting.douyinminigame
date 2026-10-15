@@ -1,3 +1,15 @@
+# 1.0.0 (2026-10-15)
+
+
+### Bug Fixes
+
+* **package:** 对齐 setting 2.0.0 依赖并修正品牌命名 ([a7d6d06](https://github.com/gameframex/com.gameframex.unity.setting.douyinminigame/commit/a7d6d064c78824d084bb531603f06f40914bfed7))
+
+
+### Features
+
+* initial commit ([d13cbf8](https://github.com/gameframex/com.gameframex.unity.setting.douyinminigame/commit/d13cbf8a17284e5e6e6af1655e5957dea8bdf2a0))
+
 # 1.0.0 (2026-10-13)
 
 
