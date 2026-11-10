@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/gameframex/com.gameframex.unity.setting.douyinminigame/compare/1.0.0...1.0.1) (2026-11-10)
+
+
+### Bug Fixes
+
+* **setting.douyinminigame:** 添加完整 link.xml 防代码裁剪保护 ([128faa0](https://github.com/gameframex/com.gameframex.unity.setting.douyinminigame/commit/128faa0f5798ba36bd0ccd335d113e801268c5ad))
+
 # 1.0.0 (2026-10-15)
 
 
