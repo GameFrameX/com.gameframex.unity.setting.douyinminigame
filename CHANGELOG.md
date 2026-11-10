@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/gameframex/com.gameframex.unity.setting.douyinminigame/compare/1.0.1...1.1.0) (2026-11-10)
+
+
+### Features
+
+* **setting.douyinminigame:** 新增抖音小游戏存档文件存储后端 ([8ddad26](https://github.com/gameframex/com.gameframex.unity.setting.douyinminigame/commit/8ddad265c22cff43a57d7cf25f0aad8820e545aa))
+
 ## [1.0.1](https://github.com/gameframex/com.gameframex.unity.setting.douyinminigame/compare/1.0.0...1.0.1) (2026-11-10)
 
 
