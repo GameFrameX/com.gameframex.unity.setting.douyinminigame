@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/gameframex/com.gameframex.unity.setting.douyinminigame/compare/1.1.0...1.1.1) (2026-11-13)
+
+
+### Bug Fixes
+
+* **setting.douyinminigame:** 存档目录已存在时 MkdirSync 平台报错 ([a5036b7](https://github.com/gameframex/com.gameframex.unity.setting.douyinminigame/commit/a5036b70082831472dc98c3288f76b5c76e8b4fd))
+
 # [1.1.0](https://github.com/gameframex/com.gameframex.unity.setting.douyinminigame/compare/1.0.1...1.1.0) (2026-11-10)
 
 
